@@ -1,5 +1,7 @@
 # Soccer Player Valuation Analysis
 
+> **Scope** · Self-study data science project — published as-is.
+
 ## Overview
 This project analyzes and predicts soccer player market values using performance statistics, clustering techniques, and machine learning. The system processes player appearances, club data, and valuation history to provide insights into player segmentation and market value prediction.
 
